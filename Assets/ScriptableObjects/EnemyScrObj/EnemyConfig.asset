@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6c675f36d564b041bc9760319913d61, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: 
+  Damage: 1
+  ScorePrice: 1
+  EnemyAtack: {fileID: 11400000, guid: df01a3308ecbac946aff6e91de27ebc1, type: 2}
+  EnemyTakeDamage: {fileID: 11400000, guid: 4d68b11f1b3f54f498ab1519978d51f9, type: 2}
+  EnemyDie: {fileID: 11400000, guid: 98a9db166cf85244bb0c0b0b64dcb0b5, type: 2}
+  Enemy: {fileID: 0}

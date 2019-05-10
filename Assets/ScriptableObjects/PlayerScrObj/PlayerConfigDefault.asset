@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a046bb49506fffb43be3ac62e20ce11e, type: 3}
+  m_Name: PlayerConfigDefault
+  m_EditorClassIdentifier: 
+  StartHealth: 15
+  PlayerShooting: {fileID: 11400000, guid: 586004743dd06b74fac141806dbae909, type: 2}
+  PlayerTakeDamage: {fileID: 11400000, guid: 0265f6e169654214caf0e98158226656, type: 2}
+  PlayerDie: {fileID: 11400000, guid: d45c9d5eaab15384eb557571d0ca18c3, type: 2}
+  Player: {fileID: 0}
